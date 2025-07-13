@@ -20,8 +20,8 @@ This project provides a lightweight, **Dockerized Python microservice** for inge
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/C9H13NO3-dev/weatherstation-ha-relay.git
-cd weatherstation-ha-relay
+git clone https://github.com/C9H13NO3-dev/VevorWeatherbridge.git
+cd VevorWeatherbridge
 ```
 
 ### 2. Configure the environment
